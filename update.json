@@ -2,6 +2,6 @@
   "win32-x64-prod": {
     "readme": "Second Release",
     "update": "https://raw.githubusercontent.com/Paul-Long/updateTest/master/releases/1.0.0/release.json",
-    "version": "1.0.0"
+    "version": "2.0.0"
   }
 }
