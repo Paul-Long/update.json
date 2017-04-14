@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
     "readme": "Second Release",
-    "update": "https://github.com/sorrycc/test-release/releases/1.0.0/release.json",
+    "update": "https://raw.githubusercontent.com/Paul-Long/updateTest/master/releases/1.0.0/release.json",
     "version": "1.0.0"
   }
 }
